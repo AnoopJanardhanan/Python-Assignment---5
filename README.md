@@ -17,3 +17,7 @@ exception if any of the integers in the list are negative.
 Exercise 6: Write a Python program that prompts the user to input a list of integers and computes the
 average of those integers. Use try-except blocks to handle any exceptions that might occur. Use the 
 finally clause to print a message indicating that the program has finished running. 
+
+Exercise 7: Write a Python program that prompts the user to input a filename and writes a string to that file.
+Use try-except blocks to handle any exceptions that might occur and print a welcome message if there
+is no exception occurred.
